@@ -5,7 +5,7 @@
 - Write a python script called `cleanup.py` to turn off all GPIO pins on your Pi. This script will need to set all pins as output first, then set the output to Low.
 - Use a light bulb to test your code. 
 
-- [ ] Upload your code to this repository
+- [x] Upload your code to this repository
 
 ## Part II - 7 Segment Display
 
