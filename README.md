@@ -26,7 +26,7 @@
 4. Add comments to your Python script to explain how it works.
 5. Take a short video of your stoplight working and a clear top-down photo of your wiring
 
-- [ ] Upload `stopwatch.py`, the video, and the photo to this repository. 
+- [x] Upload `stopwatch.py`, the video, and the photo to this repository. 
 
 ## Rubric 
 
